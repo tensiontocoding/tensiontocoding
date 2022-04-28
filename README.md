@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+프론트 개발자를 목표로 공부하고 있습니다.
+
 <!--
 **tensiontocoding/tensiontocoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+##🛠 html5, css3, javascript, typescript, react, redux, graphql, apollo
+
+
+###🔨 java, jsp, spring, oracle, mysql
+
