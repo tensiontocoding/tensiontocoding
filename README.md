@@ -4,4 +4,4 @@
 
 ### 🛠 html5, css3, javascript, typescript, react, redux, graphql, apollo
 
-#### 🛠 java, jsp, spring, oracle, mysql
+#### + java, jsp, spring, oracle, mysql
